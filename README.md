@@ -11,7 +11,7 @@
 ## 🛡️ Кибербезопасность
 
 <div align="center">
-  <img src="./assets/hack.gif" width="400" alt="Security" />
+  <img src="https://github.com/v1tldev/v1tldev/blob/main/.assets/hack.gif" width="400" alt="Security" />
 </div>
 
 - 🔐 Аудит защищённости веб-приложений
@@ -25,7 +25,7 @@
 ## 🌐 Веб-разработка
 
 <div align="center">
-  <img src="./assets/coding.gif" width="400" alt="WebDev" />
+  <img src="https://github.com/v1tldev/v1tldev/blob/main/.assets/coding.gif" width="400" alt="WebDev" />
 </div>
 
 - ⚛️ Фронтенд (React, TypeScript)
@@ -39,7 +39,7 @@
 ## 🧩 Парсинг и автоматизация
 
 <div align="center">
-  <img src="./assets/search.gif" width="400" alt="Automation" />
+  <img src="https://github.com/v1tldev/v1tldev/blob/main/.assets/search.gif" width="400" alt="Automation" />
 </div>
 
 - 📊 Веб-скрапинг (Cheerio, Puppeteer)
