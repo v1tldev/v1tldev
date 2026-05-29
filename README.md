@@ -1,6 +1,4 @@
-# 👋 Привет, я Вит
-
-**Fullstack Developer | CyberSec Enthusiast | Automation Expert**
+# 👋 Привет, я Виталий
 
 ---
 
@@ -34,26 +32,14 @@
 
 ---
 
-## 📌 Избранные проекты
-
-Здесь будет список твоих двух основных проектов с иконками и краткими описаниями.
-
-*(Добавишь сам, когда репозитории будут готовы)*
-
----
-
 ## 📊 GitHub Статистика
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Vitl-DevSec&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitl-DevSec&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=v1tldev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1tldev&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Связаться со мной
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:твой@email.com)
-
----
-
-*«Код — это поэзия, а безопасность — её рифма»*
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vitaliik73)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vitldev53@gmal.com)
