@@ -15,8 +15,8 @@
   <img src="https://github.com/v1tldev/v1tldev/blob/main/.assets/hack.gif" width="400" alt="Security" />
 </div>
 
-### - 🔐 Аудит защищённости веб-приложений
-### - 📡 Поиск уязвимостей и документирование (writeups)
+#### - 🔐 Аудит защищённости веб-приложений
+#### - 📡 Поиск уязвимостей и документирование (writeups)
 
 👉 [**Посмотреть проекты по тегу `security`**](https://github.com/v1tldev?tab=repositories&q=topic%3Asecurity)
 
@@ -28,9 +28,9 @@
   <img src="https://github.com/v1tldev/v1tldev/blob/main/.assets/coding.gif" width="400" alt="WebDev" />
 </div>
 
-### - ⚛️ Фронтенд (React, TypeScript)
-### - 🖥️ Бэкенд (Node.js, Express, Telegram Bot API)
-### - 🗄️ Базы данных (MongoDB, PostgreSQL)
+#### - ⚛️ Фронтенд (React, TypeScript)
+#### - 🖥️ Бэкенд (Node.js, Express, Telegram Bot API)
+#### - 🗄️ Базы данных (MongoDB, PostgreSQL)
 
 👉 [**Посмотреть проекты по тегу `web`**](https://github.com/v1tldev?tab=repositories&q=topic%3Aweb)
 
@@ -42,9 +42,9 @@
   <img src="https://github.com/v1tldev/v1tldev/blob/main/.assets/search.gif" width="400" alt="Automation" />
 </div>
 
-### - 📊 Веб-скрапинг (Cheerio, Puppeteer)
-### - 🤖 Автоматизация рутины (Node.js, Python)
-### - 🚀 Интеграция с API и обработка данных
+#### - 📊 Веб-скрапинг (Cheerio, Puppeteer)
+#### - 🤖 Автоматизация рутины (Node.js, Python)
+#### - 🚀 Интеграция с API и обработка данных
 
 👉 [**Посмотреть проекты по тегу `parsing`**](https://github.com/v1tldev?tab=repositories&q=topic%3Aparsing)
 
