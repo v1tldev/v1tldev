@@ -8,43 +8,43 @@
 
 ---
 
+## 🛡️ Кибербезопасность
+
 <div align="center">
-  <h2>🛡️ Кибербезопасность</h2>
-  <img src="https://github.com/v1tldev/v1tldev/blob/main/.assets/hack.gif" width="100%" alt="Security" />
-  <p>
-    🔐 Аудит защищённости веб-приложений<br/>
-    🧩 Разработка инструментов пентеста<br/>
-    📡 Поиск уязвимостей и документирование
-  </p>
+  <img src="https://github.com/v1tldev/v1tldev/blob/main/.assets/hack.gif" width="400" alt="Security" />
 </div>
+
+- 🔐 Аудит защищённости веб-приложений
+- 🧩 Разработка инструментов пентеста
+- 📡 Поиск уязвимостей и документирование (writeups)
 
 👉 [**Посмотреть проекты по тегу `security`**](https://github.com/v1tldev?tab=repositories&q=topic%3Asecurity)
 
 ---
 
+## 🌐 Веб-разработка
+
 <div align="center">
-  <h2>🌐 Веб-разработка</h2>
-  <img src="https://github.com/v1tldev/v1tldev/blob/main/.assets/coding.gif" width="100%" alt="WebDev" />
-  <p>
-    ⚛️ Фронтенд (React, TypeScript)<br/>
-    🖥️ Бэкенд (Node.js, Express, Telegram Bot API)<br/>
-    🗄️ Работа с базами данных (MongoDB, PostgreSQL)
-  </p>
+  <img src="https://github.com/v1tldev/v1tldev/blob/main/.assets/coding.gif" width="400" alt="WebDev" />
 </div>
+
+- ⚛️ Фронтенд (React, TypeScript)
+- 🖥️ Бэкенд (Node.js, Express, Telegram Bot API)
+- 🗄️ Базы данных (MongoDB, PostgreSQL)
 
 👉 [**Посмотреть проекты по тегу `web`**](https://github.com/v1tldev?tab=repositories&q=topic%3Aweb)
 
 ---
 
+## 🧩 Парсинг и автоматизация
+
 <div align="center">
-  <h2>🧩 Парсинг и автоматизация</h2>
-  <img src="https://github.com/v1tldev/v1tldev/blob/main/.assets/search.gif" width="100%" alt="Automation" />
-  <p>
-    📊 Веб-скрапинг (Cheerio, Puppeteer)<br/>
-    🤖 Автоматизация рутины (Node.js, Python)<br/>
-    🚀 Интеграция с API и обработка данных
-  </p>
+  <img src="https://github.com/v1tldev/v1tldev/blob/main/.assets/search.gif" width="400" alt="Automation" />
 </div>
+
+- 📊 Веб-скрапинг (Cheerio, Puppeteer)
+- 🤖 Автоматизация рутины (Node.js, Python)
+- 🚀 Интеграция с API и обработка данных
 
 👉 [**Посмотреть проекты по тегу `parsing`**](https://github.com/v1tldev?tab=repositories&q=topic%3Aparsing)
 
