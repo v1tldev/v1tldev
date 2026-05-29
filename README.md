@@ -42,7 +42,7 @@
   <img src="https://github.com/v1tldev/v1tldev/blob/main/.assets/search.gif" width="400" alt="Automation" />
 </div>
 
-#### - 📊 Веб-скрапинг (Cheerio, Puppeteer)
+#### - 📊 Веб-скрапинг (Cheerio, BeautifulSoup)
 #### - 🤖 Автоматизация рутины (Node.js, Python)
 #### - 🚀 Интеграция с API и обработка данных
 
@@ -56,7 +56,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
