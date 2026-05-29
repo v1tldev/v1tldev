@@ -1,5 +1,6 @@
 <div align="center">
   <h1>👋 Привет, я Виталий</h1>
+  <h3>В данный момент развиваюсь в трех направлениях:</h3>
   <h3>Fullstack Developer • CyberSec • Automation</h3>
   <p>
     <img src="https://komarev.com/ghpvc/?username=v1tldev&label=Profile%20views&color=0e75b6&style=flat" alt="v1tldev" />
