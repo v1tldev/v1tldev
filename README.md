@@ -28,9 +28,8 @@
   <img src="https://github.com/v1tldev/v1tldev/blob/main/.assets/coding.gif" width="400" alt="WebDev" />
 </div>
 
-#### - ⚛️ Фронтенд (React, TypeScript)
 #### - 🖥️ Бэкенд (Node.js, Express, Telegram Bot API)
-#### - 🗄️ Базы данных (MongoDB, PostgreSQL)
+#### - 🗄️ Базы данных (MongoDB...)
 
 👉 [**Посмотреть проекты по тегу `web`**](https://github.com/v1tldev?tab=repositories&q=topic%3Aweb)
 
