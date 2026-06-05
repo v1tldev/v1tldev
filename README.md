@@ -65,7 +65,7 @@
 ## 📫 Связаться со мной
 
 <div align="center">
-  <a href="https://t.me/Vitaliik73">
+  <a href="https://t.me/nicecxzz">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:vitldev53@gmail.com">
